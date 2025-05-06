@@ -2,19 +2,6 @@
 
 A neural network that predicts Airbnb ratings based on several features.
 
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Setup](#setup)
-  - [Local Environment Setup](#local-environment-setup)
-  - [Dependencies](#dependencies)
-- [Usage](#usage)
-  - [Model Training](#model-training)
-  - [Model Deployment (API)](#model-deployment-api)
-  - [Querying the Model](#querying-the-model)
-- [License](#license)
-
 ## Description
 
 AirRate is a machine learning project that uses a neural network to predict Airbnb ratings based on various features such as the number of bedrooms, bathrooms, price, and amenities. This project was developed as part of a final group project for the Deep Learning course at Allegheny College.
